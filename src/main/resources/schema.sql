@@ -1,6 +1,6 @@
 CREATE TABLE sporsmal 
 (
-id integer,
+id serial,
 niva integer,
 spm varchar(60),
 svar varchar(45),
